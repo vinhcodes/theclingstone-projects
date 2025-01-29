@@ -3,16 +3,22 @@
       {
         "id": "keyboard-ai",
         "title": "Keyboard AI",
-        "description": "AI-Writing assistant & Editor",
-        "mdxPathToPrivacyPolicy": "projects/keyboard-ai/privacy-policy.mdx",
-        "mdxPathToTermsOfUse": "projects/keyboard-ai/terms-of-use.mdx"
+        "description": "AI text generation app for personalized writing",
+        "legalDocs": {
+          "privacyPolicy": "projects/keyboard-ai/privacy-policy.mdx",
+          "termsOfUse": "projects/keyboard-ai/terms-of-use.mdx",
+          "cookiePolicy": "projects/keyboard-ai/cookie-policy.mdx"
+        }
       },
       {
         "id": "rtcp",
         "title": "RTCP",
         "description": "Ultimate tool for small businesses. Expense tracking, income tracking, miles tracking",
-        "mdxPathToPrivacyPolicy": "projects/rtcp/privacy-policy.mdx",
-        "mdxPathToTermsOfUse": "projects/rtcp/terms-of-use.mdx"
+        "legalDocs": {
+          "privacyPolicy": "projects/rtcp/privacy-policy.mdx",
+          "termsOfUse": "projects/rtcp/terms-of-use.mdx",
+          "cookiePolicy": "projects/rtcp/cookie-policy.mdx"
+        }
       }
     ]
   }

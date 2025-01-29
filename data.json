@@ -4,13 +4,15 @@
         "id": "keyboard-ai",
         "title": "Keyboard AI",
         "description": "AI-Writing assistant & Editor",
-        "mdxPath": "projects/keyboard-ai/privacy-policy.mdx"
+        "mdxPathToPrivacyPolicy": "projects/keyboard-ai/privacy-policy.mdx",
+        "mdxPathToTermsOfUse": "projects/keyboard-ai/terms-of-use.mdx"
       },
       {
         "id": "rtcp",
         "title": "RTCP",
         "description": "Ultimate tool for small businesses. Expense tracking, income tracking, miles tracking",
-        "mdxPath": "projects/rtcp/privacy-policy.mdx"
+        "mdxPathToPrivacyPolicy": "projects/rtcp/privacy-policy.mdx",
+        "mdxPathToTermsOfUse": "projects/rtcp/terms-of-use.mdx"
       }
     ]
   }

@@ -4,7 +4,7 @@
         "id": "keyboard-ai",
         "title": "Keyboard AI",
         "description": "AI text generation app for personalized writing",
-        "content": "projects/keyboard-ai/content.mdx",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste eius in sed magnam similique minima saepe! Saepe numquam voluptatum accusamus necessitatibus similique explicabo unde! Officiis numquam molestias laboriosam et accusamus.",
         "legalDocs": {
           "privacyPolicy": "projects/keyboard-ai/privacy-policy.mdx",
           "termsOfUse": "projects/keyboard-ai/terms-of-use.mdx",
@@ -15,7 +15,7 @@
         "id": "rtcp",
         "title": "RTCP",
         "description": "Ultimate tool for small businesses. Expense tracking, income tracking, miles tracking",
-        "content": "projects/rtcp/content.mdx",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste eius in sed magnam similique minima saepe! Saepe numquam voluptatum accusamus necessitatibus similique explicabo unde! Officiis numquam molestias laboriosam et accusamus.",
         "legalDocs": {
           "privacyPolicy": "projects/rtcp/privacy-policy.mdx",
           "termsOfUse": "projects/rtcp/terms-of-use.mdx",
